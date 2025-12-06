@@ -6,4 +6,3 @@ I'm _Kkk_ , a frontend and game developer ! Welcome to my GitHub profile!
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stan-BK&layout=compact)
